@@ -6,6 +6,5 @@
       "jupyterlab-kernel-spy",
       "jupyterlab-tour"
     ]
-  },
-  "theme": "JupyterLab Dark"
+  }
 }
